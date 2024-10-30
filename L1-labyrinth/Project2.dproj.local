@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.836,G:\Работы\3 семестр\АиСД\Лаб№1\Игра\ufGotoRoom.dfm=G:\Работы\3 семестр\АиСД\Лаб№1\Игра\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.127,C:\Users\User\Documents\Embarcadero\Studio\Projects\Project2.dproj=G:\Работы\3 семестр\АиСД\Лаб№1\Игра\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.987,=G:\Работы\3 семестр\АиСД\Лаб№1\Игра\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.238,=G:\Работы\3 семестр\АиСД\Лаб№1\Игра\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.816,G:\Работы\3 семестр\АиСД\Лаб№1\Игра\Unit1.pas=G:\Работы\3 семестр\АиСД\Лаб№1\Игра\ufStar.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.158,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm=G:\Работы\3 семестр\АиСД\Лаб№1\Игра\ufFirst.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.836,G:\Работы\3 семестр\АиСД\Лаб№1\Игра\ufGotoRoom.pas=G:\Работы\3 семестр\АиСД\Лаб№1\Игра\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.158,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas=G:\Работы\3 семестр\АиСД\Лаб№1\Игра\ufFirst.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.011,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.046,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.817,G:\Работы\3 семестр\АиСД\Лаб№1\Игра\Unit1.dfm=G:\Работы\3 семестр\АиСД\Лаб№1\Игра\ufStar.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
